@@ -22,3 +22,6 @@ SELECT gender,CAST(SUM(salary) AS INT) AS total_salary FROM employees GROUP BY g
 
 -- 8. Employees Location Distribution
 select work_location,count(emp_id) as Total from employees group by work_location; 
+
+-- 9. Full Time vs Part Time Employees by Department
+select department, work_type, count(*) as employee_count from employees group by department,work_type
