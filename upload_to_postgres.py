@@ -9,6 +9,7 @@ db_url = os.getenv('POSTGRES_URL')
 print(db_url)
 
 df = pd.read_excel('./Data/python_cleaned_staff.xlsx')
+df.columns = df.columns.str.replace(" ","_").str.lower()
 
 engine = create_engine(db_url)
 
