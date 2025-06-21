@@ -66,6 +66,9 @@ A complete end-to-end data analytics project where I cleaned and analyzed employ
 ---
 
 ![Screenshot 2025-06-21 183702](https://github.com/user-attachments/assets/b5043a1d-fe7d-4ab7-a10d-fe4419c9ded7)
+![work](https://github.com/user-attachments/assets/c89a6b2d-3f09-4926-a0e1-c3e30eedc26d)
+![join](https://github.com/user-attachments/assets/dbe54e60-0e6f-4d01-894a-9d4427489a72)
+![full time](https://github.com/user-attachments/assets/a9d4d1c2-eaf2-4c69-9fbe-f91bf0e86aff)
 ![Screenshot 2025-06-21 183723](https://github.com/user-attachments/assets/a01ebbdb-d003-45fb-ad73-76d48f828901)
 
 
