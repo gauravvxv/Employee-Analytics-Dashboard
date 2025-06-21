@@ -7,23 +7,7 @@ A complete end-to-end data analytics project where I cleaned and analyzed employ
 ## 📁 Project Structure
 
 📦 Employee-Analytics-Dashboard
-│
-├── 📊 Data/
-│ ├── staff-dirty-dataset.xlsx # Raw dataset
-│ ├── power-query-clean-staff.xlsx # Cleaned using Excel Power Query
-│ └── python_cleaned_staff.xlsx # Cleaned using Python
-│
-├── 📔 Notebooks/
-│ └── Staff.ipynb # Python data cleaning & EDA
-│
-├── 📄 query.sql # SQL queries for analysis
-├── 📄 upload_to_postgres.py # Python script to upload Excel to PostgreSQL
-│
-├── 📊 PowerBI/
-│ ├── Employees.pbix # Final dashboard file
-│ └── Employees.pdf # Dashboard in PDF format
-│
-└── 📄 README.md # This file
+<pre> 📦 Employee-Analytics-Dashboard ├── 📊 Data/ │ ├── staff-dirty-dataset.xlsx # Raw dataset │ ├── power-query-clean-staff.xlsx # Cleaned using Excel Power Query │ └── python_cleaned_staff.xlsx # Cleaned using Python │ ├── 📔 Notebooks/ │ └── Staff.ipynb # Python data cleaning & EDA │ ├── 📄 query.sql # SQL queries for analysis ├── 📄 upload_to_postgres.py # Upload script to PostgreSQL │ ├── 📊 PowerBI/ │ ├── Employees.pbix # Power BI Dashboard │ └── Employees.pdf # Dashboard in PDF format │ └── 📄 README.md # Project documentation </pre>
 
 
 ---
